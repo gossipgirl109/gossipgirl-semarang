@@ -1,0 +1,1 @@
+// JavaScript for posting and user identity control
